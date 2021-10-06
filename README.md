@@ -2,9 +2,9 @@
 
 ### Hola 👋
 
-#### Bienvenido a mi perfil, aquí un poco de todo lo que he aprendido hasta ahora
+#### Bienvenido a mi perfil, aquí un poco de mi experiencia y lo que he podido aprender hasta ahora.
 
-##### He llevado proyectos individuales y en equipo o agencias, como agendas de citas virtuales, administradores de sitios, gestión de perfiles para fines educativos, entre otros. Si existe alguna tecnología o herramienta necesaria de conocer la aprendo en rápido y sobre la marcha mejorar siempre todo lo que haga. 
+##### He llevado proyectos individuales y en equipo o agencias, como agendas de citas virtuales, administradores de sitios, gestión de perfiles para fines educativos y servicios orientados al cliente. Si existe alguna tecnología o herramienta necesaria de conocer la aprendo en rápido y sobre la marcha mejorar siempre todo lo que haga. 
 
 ### Skills
 
@@ -20,7 +20,7 @@
 ### Formación académica
 
 #### - Estudiante de User Experience (UX) / User Interface (UI) en Acámica (Argenina)
-#### - Certificación de Google ADS de Google Skillshop
+#### - Certificación de Google ADS de Google Skillshop (En proceso)
 #### - Curso de fotografía con drones (Doméstika)
 #### - Curso de color aplicado al diseño gráfico (Doméstika)
 #### - Curso de Bot para Messenger (Platzi)
