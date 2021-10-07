@@ -25,6 +25,14 @@
 #### - Curso de color aplicado al diseño gráfico (Doméstika)
 #### - Curso de Bot para Messenger (Platzi)
 
+### Proyectos realizados y colaborados
+
+#### - Rectoral Board Institute https://rectoralboard.com/
+#### - UniODS https://uni-ods.org/
+#### - Standard Group https://grupostandard.org/
+#### - Sitio Oficial Rotary Ecuador http://www.bnrsistemas.com/rotaryecuador/
+#### - Feria de Proyectos Rotary Ecuador https://projectsfair-rotaryecuador.org/
+
 ### Proyectos personales
 
 ##### Me encuentro en proceso de desarrollo de un proyecto personal con un colega muy talentoso, el proyecto se llama Estudios MonoMate, llevamos proyectos de diseño publicidad y desarrollo, ayudamos a las empresas a posicionarse en medios digitales para mejorar su presencia en internet
