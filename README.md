@@ -9,10 +9,14 @@
 ### Skills
 
 #### - NodeJs + Express
+#### - Nest
 #### - MongoDB
 #### - Firebase (Firestore, Functions, RealTime DB, Messages Services)
 #### - VueJs
-#### - HTML + CSS + JavaScript
+#### - ReactJs
+#### - HTML + CSS
+#### - JavaScript
+#### - TypeScript
 #### - Flutter
 #### - Prototipados en Figma y Adobe XD
 #### - Ilustartor + Photoshop
